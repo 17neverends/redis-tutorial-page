@@ -1,6 +1,7 @@
 <h1>Сайт для знакомства с Redis. Представлены 2 теоретические страницы - "Операции" и "Структуры данных", в которых собран основной материал, и 1 практическая страница на которой представлен конструтор операций и просмотр результатов выполнения команд.</h1>
 <h1>A site for getting to know Redis. There are 2 theoretical pages - "Operations" and "Data Structures", in which the basic material is collected, and 1 practical page on which the constructor of operations and viewing the results of command execution are presented.</h1>
 <br>
+
 ![image](https://github.com/17neverends/redis-tutorial-page/assets/118381764/d56382a1-ffb6-4e69-8c8e-ccaa7305041e)
 <br>
 ![image](https://github.com/17neverends/redis-tutorial-page/assets/118381764/634fc87a-1a46-4d85-8b9f-f16aa1b4d853)
