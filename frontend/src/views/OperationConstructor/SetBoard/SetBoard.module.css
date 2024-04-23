@@ -1,0 +1,24 @@
+.containerKeyValue {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.columnsInputs {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: first baseline;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.statusResponse {
+    font-size: 20px;
+}

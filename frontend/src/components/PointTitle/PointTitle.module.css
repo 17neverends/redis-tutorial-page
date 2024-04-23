@@ -1,0 +1,8 @@
+.pointTitle {
+    font-size: 40px;
+    margin-bottom: 10px;
+    animation: fadeIn 0.7s ease-in;
+}
+
+
+@keyframes fadeIn {0%{opacity:0;}100%{opacity:1;}}

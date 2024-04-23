@@ -1,0 +1,26 @@
+.mainPage {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+
+.question {
+    font-size: 35px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.answer {
+    font-size: 25px;
+}
+
+.liDiv {
+    font-size: 25px;
+}
+
+.liDiv li {
+    margin-bottom: 30px;
+}
