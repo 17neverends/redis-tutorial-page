@@ -17,7 +17,8 @@ async def get_data(key: str) -> JSONResponse:
     try:
         result = redis.get(key=key)
         if result is None:
-            raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Ключ не найден")
+            print(123)
+            return JSONResponse(status_code=404, content="Ключ не найден")
         elif isinstance(result, str):
             return result
         elif isinstance(result, bytes):
